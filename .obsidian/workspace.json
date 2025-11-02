@@ -8,35 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d54848a250e81e83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
             "id": "fda9ed434bf63d99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "File"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "415e57e0fceeee69",
@@ -125,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for File"
+              "title": "Backlinks"
             }
           },
           {
@@ -144,12 +124,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from File"
+              "title": "Outgoing links"
             }
           },
           {
@@ -173,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of File"
+              "title": "Outline"
             }
           },
           {
@@ -211,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fda9ed434bf63d99",
+  "active": "083bcc5dc3c023d6",
   "lastOpenFiles": [
     "Welcome.md",
     "File.md"
