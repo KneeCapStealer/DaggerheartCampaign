@@ -1,0 +1,9 @@
+- Starter ude i ørkenen på vej imod byen hvor de har fået en kontrakt
+- ... maybe something more
+- Kommer ind til byen og bliver budt velkommen
+- ... maybe something more
+- De slås imod vilddyret
+- Finder en mærklig dims inden i den
+- [Den Hvide](Den%20Hvide%20-%20Skulpturvogteren) dukker op og peger på en [Skulptur](Skulpturerne)
+- Hvis spillerne interagere med skulpturen via den mærklige dims så kommer der en terminal
+- Denne terminal viser dem en 2. Node på et kort, som også er en Skulptur
