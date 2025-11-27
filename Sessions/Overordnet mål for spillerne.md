@@ -1,0 +1,4 @@
+- De skal connect til flere [skulpturer](Skulpturerne) for at forbinde noget af netværket og aktivere nogen af de nodes den består af
+- Når de er aktiverede får de adgang til et kammer under jorden
+- Hernede finder de et kort over Den Sidste By
+- Og <span style="color: #FC143C; font-weight: bold;">The Encounter</span> sker
