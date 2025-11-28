@@ -8,3 +8,5 @@ Deres primære lokation hvor alle ravnene kommer fra er fra [[Xamir]]'s hjemby, 
 Bare ignorer den usb-stick den har xD
 Forstil jer det er noget fremtids lignene
 ![[RavnAISlop.png]]
+
+Jeg forsøgte selv at tegne dem, men det kom bare til at ligne den der gås fra Untitled Goose Game lmao
