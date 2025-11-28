@@ -11,24 +11,10 @@
             "id": "8c025afc94250ea5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Ørkenfolket.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ørkenfolket"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -217,10 +203,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "083bcc5dc3c023d6",
+  "active": "8c025afc94250ea5",
   "lastOpenFiles": [
-    "NPC's/Xamir.md",
     "NPC's/Ørkenfolket.md",
+    "NPC's/Xamir.md",
     "Locations/Xamirs hjemby (name in progress).md",
     "Vilddyr/Generelt.md",
     "Imges/RavnAISlop.png",
