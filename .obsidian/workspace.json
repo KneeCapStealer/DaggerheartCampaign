@@ -11,10 +11,24 @@
             "id": "8c025afc94250ea5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Communities/Slyborne.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Slyborne"
             }
           }
         ]
@@ -205,6 +219,18 @@
   },
   "active": "8c025afc94250ea5",
   "lastOpenFiles": [
+    "Communities/Highborne.md",
+    "Communities/Excluded.md",
+    "Communities/Underborne.md",
+    "Communities/Slyborne.md",
+    "Communities/Wanderborne.md",
+    "Communities/Ridgeborne.md",
+    "Communities/Orderborne.md",
+    "Communities/Loreborne.md",
+    "NPC's/Bjergfolket.md",
+    "private/Locations/_Happy_score.md",
+    "private/Sessions/Overordnet mål for spillerne.md",
+    "Communities",
     "NPC's/Ørkenfolket.md",
     "NPC's/Xamir.md",
     "Locations/Xamirs hjemby (name in progress).md",
@@ -213,7 +239,6 @@
     "Locations/Den Sidste By.md",
     "Locations/Skulpturerne.md",
     "private/NPC's/Den Hvide - Privat.md",
-    "private/Locations/_Happy_score.md",
     "private/Locations/Skulpturerne - Privat.md",
     "private/Locations/Den Sidste By - Privat.md",
     "Vilddyr/Ravne.md",
@@ -226,21 +251,11 @@
     "Imges/DenSidsteByAISlop.png",
     "TODO.md",
     "private/Sessions/Session 1.md",
-    "private/Sessions/Overordnet mål for spillerne.md",
-    "private/NPC's/Den Hvide - Skulpturvogteren - Public (not yet).md",
-    "\"Den.md",
-    "home/chris/Documents/vaults/DaggerheartCampaign/Locations/Den.md",
     "home/chris/Documents/vaults/DaggerheartCampaign/Locations",
     "home/chris/Documents/vaults/DaggerheartCampaign",
     "home/chris/Documents/vaults",
     "home/chris/Documents",
     "home/chris",
-    "home",
-    "private/Locations",
-    "Theme.md",
-    "private/Untitled.md",
-    "Skulpturerne.md",
-    "Welcome.md",
-    "File.md"
+    "home"
   ]
 }
