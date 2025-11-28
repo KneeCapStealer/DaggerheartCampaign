@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "private/Sessions/Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Session 1"
             }
           }
         ],
@@ -215,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 395.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,20 +232,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9fa50dac541d0735",
+  "active": "f351db6d1bf36942",
   "lastOpenFiles": [
+    "private",
+    "Theme.md",
+    "TODO.md",
     "NPC's/Den Hvide - Skulpturvogteren.md",
-    "Sessions/Overordnet mål for spillerne.md",
+    "private/Sessions/Overordnet mål for spillerne.md",
     "Locations/Den Sidste By.md",
     "Locations/Skulpturerne.md",
-    "Theme.md",
-    "Sessions/Session 1.md",
+    "private/Sessions/Session 1.md",
     "Skulpturerne.md",
-    "Sessions",
+    "private/Sessions",
     "Vilddyr/Vilddyr.md",
     "Vilddyr",
     "NPC's",
-    "TODO.md",
     "Locations",
     "World",
     "Welcome.md",
