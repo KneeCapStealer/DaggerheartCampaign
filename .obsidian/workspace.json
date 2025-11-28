@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Skulpturerne.md",
+                "file": "Locations/Den Sidste By.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skulpturerne"
+              "title": "Den Sidste By"
             }
           }
         ]
@@ -197,10 +197,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "189d2c615ffa1365",
+  "active": "f351db6d1bf36942",
   "lastOpenFiles": [
-    "TODO.md",
+    "Imges",
+    "Imges/DenSidsteByAISlop.png",
     "Locations/Skulpturerne.md",
+    "TODO.md",
     "Locations/Den Sidste By.md",
     "private/Sessions/Session 1.md",
     "private/Sessions/Overordnet mål for spillerne.md",

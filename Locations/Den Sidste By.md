@@ -12,3 +12,9 @@
 - Der er mange [vilddyr](Vilddyr/Generelt) rundt om byen.
 	- De opholder sig tæt ved byen da der er mange skrog og energikilder
 - Ikke mange tør at bevæge sig tæt på byen i frygt af vilddyrene, dem som gør kommer oftest ikke tilbage
+
+## AI Slop
+Forestil jer at der ikke er kabler som går væk fra byen.
+At bygningerne ikke ligner normale højhuse fra New York.
+Og at pedestalen er lidt højere.
+![[DenSidsteByAISlop.png]]
