@@ -13,7 +13,7 @@
 	- De opholder sig tæt ved byen da der er mange skrog og energikilder
 - Ikke mange tør at bevæge sig tæt på byen i frygt af vilddyrene, dem som gør kommer oftest ikke tilbage
 
-## AI Slop
+## AI Slop (chat GPT er lort, det her tog 21 billeder)
 Forestil jer at der ikke er kabler som går væk fra byen.
 At bygningerne ikke ligner normale højhuse fra New York.
 Og at pedestalen er lidt højere.

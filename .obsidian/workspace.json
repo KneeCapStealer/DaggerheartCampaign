@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5,
-    "collapsed": true
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +196,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f351db6d1bf36942",
+  "active": "189d2c615ffa1365",
   "lastOpenFiles": [
     "Imges",
     "Imges/DenSidsteByAISlop.png",
