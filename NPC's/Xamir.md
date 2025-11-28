@@ -1,7 +1,11 @@
-Give me a second to cook plz
+[[Xamirs hjemby (name in progress)]] er en af de eneste store byer tilbage. En gruppe mennesker gik sammen om at bygge en væg rundt om en ørkenfri zone. Hvilket tillod dem at få et kæmpe forspring i ressourcer og mad.
+Xamir udnyttede disse fordele og ressourcer til at arbejde med teknologien den tidligere civilisation havde efterladt. Hans største skabning til dato, som har haft indflydelse på hele området omkring [[Den Sidste By]], er [[Ravn]]. Det første kommunikations netværk efter den gamle civilisation forsvandt.
 
-Xamir's hjemby er en af de eneste store byer som er skabt i verden. En gruppe mennesker gik sammen om at bygge en væg rundt om en ørkenfri zone. Hvilket tillod dem at få et kæmpe forspring i resurser og mad.
+Xamir er en Simiah, en sjællen race i ørkenen. Og bruger det meste af tiden på at udvikle nye mekaniske dimser og teknologier. Han er hvad alle technomancers drømmer om at være.
 
-Xamir er en Simiah, en sjællen race i ørkenen.
+## Personlighed
+- To be decided
 
-Plz kom på et navn til den her by, jeg er for doven
+## Udseende
+- Lille Simiah abe
+- I har ikke set ham personligt, ikke mange har

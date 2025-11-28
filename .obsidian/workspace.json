@@ -4,39 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "415e57e0fceeee69",
+        "id": "ab7b6242375732ab",
         "type": "tabs",
         "children": [
           {
-            "id": "189d2c615ffa1365",
+            "id": "8c025afc94250ea5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vilddyr/Ravne.md",
+                "file": "NPC's/Ørkenfolket.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Ravne"
-            }
-          },
-          {
-            "id": "a35034e302b19eda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Xamir.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Xamir"
+              "title": "Ørkenfolket"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"excalidraw-plugin\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "NPC's/Ørkenfolket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TODO"
+              "title": "Backlinks for Ørkenfolket"
             }
           },
           {
@@ -189,6 +184,16 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "a4b870b49e583eeb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
@@ -208,28 +213,35 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a35034e302b19eda",
+  "active": "083bcc5dc3c023d6",
   "lastOpenFiles": [
+    "NPC's/Xamir.md",
+    "NPC's/Ørkenfolket.md",
+    "Locations/Xamirs hjemby (name in progress).md",
+    "Vilddyr/Generelt.md",
+    "Imges/RavnAISlop.png",
+    "Locations/Den Sidste By.md",
+    "Locations/Skulpturerne.md",
+    "private/NPC's/Den Hvide - Privat.md",
+    "private/Locations/_Happy_score.md",
+    "private/Locations/Skulpturerne - Privat.md",
+    "private/Locations/Den Sidste By - Privat.md",
     "Vilddyr/Ravne.md",
+    "private/Locations/Xamirs hjemby - Privat.md",
     "Excalidraw/Drawing 2025-11-28 18.31.39.excalidraw.md",
     "Excalidraw",
     "Technologies/Ravn.md",
-    "NPC's/Xamir.md",
-    "Locations/Den Sidste By.md",
     "Technologies",
     "Imges",
     "Imges/DenSidsteByAISlop.png",
-    "Locations/Skulpturerne.md",
     "TODO.md",
     "private/Sessions/Session 1.md",
     "private/Sessions/Overordnet mål for spillerne.md",
-    "private/Locations/Skulpturerne - Privat.md",
-    "private/Locations/Den Sidste By - Privat.md",
     "private/NPC's/Den Hvide - Skulpturvogteren - Public (not yet).md",
-    "Vilddyr/Generelt.md",
     "\"Den.md",
     "home/chris/Documents/vaults/DaggerheartCampaign/Locations/Den.md",
     "home/chris/Documents/vaults/DaggerheartCampaign/Locations",
@@ -240,7 +252,6 @@
     "home",
     "private/Locations",
     "Theme.md",
-    "private/NPC's/Den Hvide - Privat.md",
     "private/Untitled.md",
     "Skulpturerne.md",
     "Welcome.md",
