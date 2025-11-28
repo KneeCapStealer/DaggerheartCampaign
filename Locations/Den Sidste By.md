@@ -7,9 +7,8 @@
 - At komme ind i byen er manges største drøm
 - Byen er næsten umulig at komme ind i, ingen ved hvordan
 - De holder næsten ingen kontakt med omverdenen, der er mange rygter
-- Den Sidste By er samlepunktet for forbindelserne mellem [[Skulpturerne]]
 
 ## Område
-- Der er mange [[Vilddyr]] rundt om byen.
+- Der er mange [vilddyr](Vilddyr/Generelt) rundt om byen.
 	- De opholder sig tæt ved byen da der er mange skrog og energikilder
 - Ikke mange tør at bevæge sig tæt på byen i frygt af vilddyrene, dem som gør kommer oftest ikke tilbage
