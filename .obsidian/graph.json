@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Locations  ",
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 12459550
       }
+    },
+    {
+      "query": "path:Communities  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 10.2001953125,
   "linkStrength": 0.508219401041667,
   "linkDistance": 264,
-  "scale": 1,
+  "scale": 0.7423544158350598,
   "close": true
 }
