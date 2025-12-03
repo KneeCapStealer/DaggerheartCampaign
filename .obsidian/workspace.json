@@ -35,24 +35,10 @@
             "id": "4106fde91ee5b653",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Nexus Oasen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nexus Oasen"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -242,9 +228,9 @@
   },
   "active": "4106fde91ee5b653",
   "lastOpenFiles": [
+    "Locations/Nexus Oasen.md",
     "Pasted image 20251203171554.png",
     "Locations/Den Sidste By.md",
-    "Locations/Nexus Oasen.md",
     "Pasted image 20251203171542.png",
     "Pasted image 20251203171445.png",
     "Imges/Nexus Oasis.png",
