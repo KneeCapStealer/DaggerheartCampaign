@@ -8,20 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c025afc94250ea5",
+            "id": "7b816ef267509c6e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Locations/The other city, that I also havn't named yet.md",
-                "bFile": "Locations/The other city, that I also havn't named yet.md",
-                "aRef": ""
+                "file": "Characters/Enhed Ares (Busters Karakter) ((Sejere end Atles)).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: The other city, that I also havn't named yet"
+              "icon": "lucide-file",
+              "title": "Enhed Ares (Busters Karakter) ((Sejere end Atles))"
+            }
+          },
+          {
+            "id": "4106fde91ee5b653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Nexus Oasen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nexus Oasen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,8 +214,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -205,45 +240,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c025afc94250ea5",
+  "active": "4106fde91ee5b653",
   "lastOpenFiles": [
-    "Theme.md",
-    "Vilddyr/Generelt.md",
+    "Pasted image 20251203171554.png",
     "Locations/Den Sidste By.md",
-    "private/Locations/_Happy_score.md",
-    "private/Locations/Den Sidste By - Privat.md",
+    "Locations/Nexus Oasen.md",
+    "Pasted image 20251203171542.png",
+    "Pasted image 20251203171445.png",
+    "Imges/Nexus Oasis.png",
+    "Communities/Excluded.md",
+    "NPC's/Ørkenfolket.md",
     "Locations/Xamirs hjemby (name in progress).md",
     "Locations/The other city, that I also havn't named yet.md",
-    "Communities/Slyborne.md",
+    "Locations/Skulpturerne.md",
+    "Untitled.base",
+    "Characters/Enhed Ares (Busters Karakter) ((Sejere end Atles)).md",
+    "Theme.md",
+    "Vilddyr/Generelt.md",
+    "Vilddyr/Ravne.md",
+    "Excalidraw/Drawing 2025-11-28 18.31.39.excalidraw.md",
     "Communities/Highborne.md",
-    "Communities/Excluded.md",
+    "Communities/Loreborne.md",
+    "Communities/Orderborne.md",
+    "Communities/Ridgeborne.md",
+    "Communities/Slyborne.md",
     "Communities/Underborne.md",
     "Communities/Wanderborne.md",
-    "Communities/Ridgeborne.md",
-    "Communities/Orderborne.md",
-    "Communities/Loreborne.md",
+    "Imges/Ehue.jpg",
+    "Ehue 1.jpg",
+    "Drawing 2025-12-03 16.51.19.excalidraw.md",
+    "Imges/DenSidsteByAISlop.png",
+    "Imges/RavnAISlop.png",
+    "Imges/OberonL.png",
+    "Characters/Oberon L (Atles Karakter).md",
+    "private/Locations/_Happy_score.md",
+    "private/Locations/Den Sidste By - Privat.md",
     "NPC's/Bjergfolket.md",
     "private/Sessions/Overordnet mål for spillerne.md",
     "Communities",
-    "NPC's/Ørkenfolket.md",
-    "NPC's/Xamir.md",
-    "Imges/RavnAISlop.png",
-    "Locations/Skulpturerne.md",
-    "private/NPC's/Den Hvide - Privat.md",
-    "private/Locations/Skulpturerne - Privat.md",
-    "Vilddyr/Ravne.md",
-    "private/Locations/Xamirs hjemby - Privat.md",
-    "Excalidraw/Drawing 2025-11-28 18.31.39.excalidraw.md",
     "Excalidraw",
-    "Technologies/Ravn.md",
     "Technologies",
     "Imges",
-    "Imges/DenSidsteByAISlop.png",
     "home/chris/Documents/vaults/DaggerheartCampaign/Locations",
     "home/chris/Documents/vaults/DaggerheartCampaign",
     "home/chris/Documents/vaults",
     "home/chris/Documents",
-    "home/chris",
-    "home"
+    "home/chris"
   ]
 }
