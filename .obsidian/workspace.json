@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Characters/Oberon L (Atles Karakter).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Oberon L (Atles Karakter)"
+            }
+          },
+          {
+            "id": "555d4c60a2e71f19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Characters/Enhed Ares (Busters Karakter) ((Sejere end Atles)).md",
                 "mode": "source",
                 "source": false,
@@ -29,20 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "Enhed Ares (Busters Karakter) ((Sejere end Atles))"
-            }
-          },
-          {
-            "id": "93f90d6679cd04f1",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ],
@@ -230,8 +240,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93f90d6679cd04f1",
+  "active": "555d4c60a2e71f19",
   "lastOpenFiles": [
+    "Characters/Oberon L (Atles Karakter).md",
     "Characters/Enhed Ares (Busters Karakter) ((Sejere end Atles)).md",
     "conflict-files-obsidian-git.md",
     "NPC's/Nexus-Arkivet.md",
@@ -267,7 +278,6 @@
     "Imges/DenSidsteByAISlop.png",
     "Imges/RavnAISlop.png",
     "Imges/OberonL.png",
-    "Characters/Oberon L (Atles Karakter).md",
     "Communities",
     "Excalidraw",
     "Technologies",
