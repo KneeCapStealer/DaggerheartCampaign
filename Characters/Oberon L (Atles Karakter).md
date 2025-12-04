@@ -11,7 +11,7 @@
 
 
 ## Backstory
-Oberon L er opvokset i [[Xamirs hjemby (name in progress)]], til den rige Lursor familie, som er fyldt med technomancers og videnskabsmænd. Dette satte præg på Oberons' fremtid, og han blev hurtigt akademisk trænet i forståelsen af maskiner og techomancy.
+Oberon L er opvokset i [[Fort Strea]], til den rige Lursor familie, som er fyldt med technomancers og videnskabsmænd. Dette satte præg på Oberons' fremtid, og han blev hurtigt akademisk trænet i forståelsen af maskiner og techomancy.
 Her klarede han det godt, og han blev hurtigt meget velanerkendt.
 Mange forudså ham endda som den næste spidskandidat i byens council. Dog var Oberon begyndt at lægge mærke til ting i byen som han ikke var fan af, og han begyndte at snakke åbent om det. Dette handlede blandt andet om teknologi om ødelagde de sidste nests af den levende insekt population.
 Byen var ikke glad for hans "reduktive syn", og han blev hurtigt erklæret "ikke egnet", så alle hans priser og accomplishments blev taget fra ham.
