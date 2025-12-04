@@ -4,49 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ab7b6242375732ab",
+        "id": "8bacc9093d7543c1",
         "type": "tabs",
         "children": [
           {
-            "id": "5441b57963063f8b",
+            "id": "3e7b283f0bcc58db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Characters/Oberon L (Atles Karakter).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Imges/Nexus Oasis.png"
               },
-              "icon": "lucide-file",
-              "title": "Oberon L (Atles Karakter)"
-            }
-          },
-          {
-            "id": "555d4c60a2e71f19",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-image",
+              "title": "Nexus Oasis"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,25 +203,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "555d4c60a2e71f19",
+  "active": "f351db6d1bf36942",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Characters/Enhed Ares (Busters Karakter) ((Sejere end Atles)).md",
+    "Imges/Nexus Oasis.png",
+    "Pasted image 20251203171445.png",
+    "Pasted image 20251203171554.png",
+    "Pasted image 20251203171542.png",
+    "Locations/Nexus Oasen.md",
     "Locations/Oasen.md",
     "Locations/Fort Strea.md",
+    "conflict-files-obsidian-git.md",
+    "Characters/Enhed Ares (Busters Karakter) ((Sejere end Atles)).md",
     "Characters/Oberon L (Atles Karakter).md",
     "NPC's/Nexus-Arkivet.md",
     "NPC's/Ørkenfolket.md",
     "NPC's/Bjergfolket.md",
     "NPC's/Xamir.md",
     "Untitled.base",
-    "Locations/Nexus Oasen.md",
     "Technologies/Ravn.md",
-    "Pasted image 20251203171554.png",
     "Locations/Den Sidste By.md",
-    "Pasted image 20251203171542.png",
-    "Pasted image 20251203171445.png",
-    "Imges/Nexus Oasis.png",
     "Communities/Excluded.md",
     "Locations/Xamirs hjemby (name in progress).md",
     "Locations/The other city, that I also havn't named yet.md",
@@ -262,7 +235,6 @@
     "Communities/Orderborne.md",
     "Communities/Ridgeborne.md",
     "Communities/Slyborne.md",
-    "Communities/Underborne.md",
     "Imges/Ehue.jpg",
     "Ehue 1.jpg",
     "Imges/DenSidsteByAISlop.png",
