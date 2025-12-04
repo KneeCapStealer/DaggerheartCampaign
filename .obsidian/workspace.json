@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Enhed Ares (Busters Karakter) ((Sejere end Atles))"
             }
+          },
+          {
+            "id": "c043b167ade01a9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,11 +264,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "555d4c60a2e71f19",
+  "active": "c043b167ade01a9d",
   "lastOpenFiles": [
-    "Characters/Oberon L (Atles Karakter).md",
     "Characters/Enhed Ares (Busters Karakter) ((Sejere end Atles)).md",
     "conflict-files-obsidian-git.md",
+    "Locations/Oasen.md",
+    "Locations/Fort Strea.md",
+    "Characters/Oberon L (Atles Karakter).md",
     "NPC's/Nexus-Arkivet.md",
     "NPC's/Ørkenfolket.md",
     "NPC's/Bjergfolket.md",
@@ -271,10 +297,8 @@
     "Communities/Ridgeborne.md",
     "Communities/Slyborne.md",
     "Communities/Underborne.md",
-    "Communities/Wanderborne.md",
     "Imges/Ehue.jpg",
     "Ehue 1.jpg",
-    "Drawing 2025-12-03 16.51.19.excalidraw.md",
     "Imges/DenSidsteByAISlop.png",
     "Imges/RavnAISlop.png",
     "Imges/OberonL.png",
