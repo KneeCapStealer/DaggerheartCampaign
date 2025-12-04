@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b816ef267509c6e",
+            "id": "5441b57963063f8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,19 +30,8 @@
               "icon": "lucide-file",
               "title": "Enhed Ares (Busters Karakter) ((Sejere end Atles))"
             }
-          },
-          {
-            "id": "4106fde91ee5b653",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"excalidraw-plugin\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,21 +215,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f351db6d1bf36942",
+  "active": "5441b57963063f8b",
   "lastOpenFiles": [
+    "NPC's/Nexus-Arkivet.md",
+    "Characters/Enhed Ares (Busters Karakter) ((Sejere end Atles)).md",
+    "NPC's/Ørkenfolket.md",
+    "NPC's/Bjergfolket.md",
+    "NPC's/Xamir.md",
+    "Untitled.base",
     "Locations/Nexus Oasen.md",
+    "Technologies/Ravn.md",
     "Pasted image 20251203171554.png",
     "Locations/Den Sidste By.md",
     "Pasted image 20251203171542.png",
     "Pasted image 20251203171445.png",
     "Imges/Nexus Oasis.png",
     "Communities/Excluded.md",
-    "NPC's/Ørkenfolket.md",
     "Locations/Xamirs hjemby (name in progress).md",
     "Locations/The other city, that I also havn't named yet.md",
     "Locations/Skulpturerne.md",
-    "Untitled.base",
-    "Characters/Enhed Ares (Busters Karakter) ((Sejere end Atles)).md",
     "Theme.md",
     "Vilddyr/Generelt.md",
     "Vilddyr/Ravne.md",
@@ -259,10 +252,6 @@
     "Imges/RavnAISlop.png",
     "Imges/OberonL.png",
     "Characters/Oberon L (Atles Karakter).md",
-    "private/Locations/_Happy_score.md",
-    "private/Locations/Den Sidste By - Privat.md",
-    "NPC's/Bjergfolket.md",
-    "private/Sessions/Overordnet mål for spillerne.md",
     "Communities",
     "Excalidraw",
     "Technologies",
