@@ -35,24 +35,14 @@
             "id": "93f90d6679cd04f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Characters/Enhed Ares (Busters Karakter) ((Sejere end Atles)).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Enhed Ares (Busters Karakter) ((Sejere end Atles))"
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ],
@@ -242,8 +232,8 @@
   },
   "active": "93f90d6679cd04f1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Characters/Enhed Ares (Busters Karakter) ((Sejere end Atles)).md",
+    "conflict-files-obsidian-git.md",
     "NPC's/Nexus-Arkivet.md",
     "NPC's/Ørkenfolket.md",
     "NPC's/Bjergfolket.md",
