@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8bacc9093d7543c1",
+        "id": "ab7b6242375732ab",
         "type": "tabs",
         "children": [
           {
-            "id": "3e7b283f0bcc58db",
+            "id": "4106fde91ee5b653",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Nexus Oasen.md",
+                "file": "Characters/Calyx Sporell.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nexus Oasen"
+              "title": "Calyx Sporell"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"excalidraw-plugin\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,12 +189,12 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -215,43 +215,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e7b283f0bcc58db",
+  "active": "4106fde91ee5b653",
   "lastOpenFiles": [
-    "Imges/Nexus Oasis.png",
-    "Pasted image 20251203171445.png",
-    "Pasted image 20251203171554.png",
-    "Pasted image 20251203171542.png",
-    "Locations/Nexus Oasen.md",
+    "NPC's/Nexus-Arkivet.md",
     "Locations/Oasen.md",
     "Locations/Fort Strea.md",
-    "conflict-files-obsidian-git.md",
     "Characters/Enhed Ares (Busters Karakter) ((Sejere end Atles)).md",
     "Characters/Oberon L (Atles Karakter).md",
-    "NPC's/Nexus-Arkivet.md",
-    "NPC's/Ørkenfolket.md",
-    "NPC's/Bjergfolket.md",
-    "NPC's/Xamir.md",
-    "Untitled.base",
-    "Technologies/Ravn.md",
-    "Locations/Den Sidste By.md",
-    "Communities/Excluded.md",
+    "Characters/Calyx Sporell.md",
     "Locations/Xamirs hjemby (name in progress).md",
-    "Locations/The other city, that I also havn't named yet.md",
-    "Locations/Skulpturerne.md",
-    "Theme.md",
-    "Vilddyr/Generelt.md",
-    "Vilddyr/Ravne.md",
-    "Excalidraw/Drawing 2025-11-28 18.31.39.excalidraw.md",
-    "Communities/Highborne.md",
-    "Communities/Loreborne.md",
-    "Communities/Orderborne.md",
-    "Communities/Ridgeborne.md",
-    "Communities/Slyborne.md",
-    "Imges/Ehue.jpg",
-    "Ehue 1.jpg",
-    "Imges/DenSidsteByAISlop.png",
+    "Locations/Den Sidste By.md",
     "Imges/RavnAISlop.png",
     "Imges/OberonL.png",
+    "Imges/Nexus Oasis.png",
+    "Imges/Ehue.jpg",
+    "Imges/DenSidsteByAISlop.png",
+    "NPC's/Xamir.md",
+    "NPC's/Ørkenfolket.md",
+    "NPC's/Bjergfolket.md",
+    "Theme.md",
+    "Pasted image 20251204174456.png",
+    "Pasted image 20251203171554.png",
+    "Pasted image 20251203171542.png",
+    "Pasted image 20251203171445.png",
+    "Vilddyr/Ravne.md",
+    "Vilddyr/Generelt.md",
+    "Technologies/Ravn.md",
+    "Locations/The other city, that I also havn't named yet.md",
+    "Locations/Skulpturerne.md",
+    "Locations/Nexus Oasen.md",
+    "Excalidraw/Drawing 2025-11-28 18.31.39.excalidraw.md",
+    "Communities/Wanderborne.md",
+    "Communities/Underborne.md",
+    "Communities/Slyborne.md",
+    "Communities/Ridgeborne.md",
+    "Communities/Orderborne.md",
+    "Communities/Loreborne.md",
+    "Communities/Highborne.md",
+    "Untitled.base",
+    "Ehue 1.jpg",
     "Communities",
     "Excalidraw",
     "Technologies",
