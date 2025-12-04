@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b816ef267509c6e",
+            "id": "4106fde91ee5b653",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Enhed Ares (Busters Karakter) ((Sejere end Atles)).md",
+                "file": "Characters/Oberon L (Atles Karakter).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Enhed Ares (Busters Karakter) ((Sejere end Atles))"
-            }
-          },
-          {
-            "id": "4106fde91ee5b653",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Oberon L (Atles Karakter)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,8 +215,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f351db6d1bf36942",
+  "active": "4106fde91ee5b653",
   "lastOpenFiles": [
+    "Communities/Loreborne.md",
+    "Characters/Oberon L (Atles Karakter).md",
+    "Characters/Enhed Ares (Busters Karakter) ((Sejere end Atles)).md",
     "Locations/Nexus Oasen.md",
     "Pasted image 20251203171554.png",
     "Locations/Den Sidste By.md",
@@ -240,13 +232,11 @@
     "Locations/The other city, that I also havn't named yet.md",
     "Locations/Skulpturerne.md",
     "Untitled.base",
-    "Characters/Enhed Ares (Busters Karakter) ((Sejere end Atles)).md",
     "Theme.md",
     "Vilddyr/Generelt.md",
     "Vilddyr/Ravne.md",
     "Excalidraw/Drawing 2025-11-28 18.31.39.excalidraw.md",
     "Communities/Highborne.md",
-    "Communities/Loreborne.md",
     "Communities/Orderborne.md",
     "Communities/Ridgeborne.md",
     "Communities/Slyborne.md",
@@ -258,7 +248,6 @@
     "Imges/DenSidsteByAISlop.png",
     "Imges/RavnAISlop.png",
     "Imges/OberonL.png",
-    "Characters/Oberon L (Atles Karakter).md",
     "private/Locations/_Happy_score.md",
     "private/Locations/Den Sidste By - Privat.md",
     "NPC's/Bjergfolket.md",
