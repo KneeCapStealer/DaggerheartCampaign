@@ -1,4 +1,3 @@
-## Details
 | **Class**        | Druid                       |
 | ---------------- | --------------------------- |
 | **Subclass**     | Warden of The Elements      |
@@ -21,74 +20,15 @@ Da Orun døde af alderdom, efterlod han Calyx nogle få værktøjer og en håndf
 Uden Orun var der dog ikke meget tilbage i landsbyen for Calyx, han følte sig aldrig helt tilpas blandt folk, så nu vandrer han som en jæger for at overleve.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# FOR GM EYES ONLY - DO NOT READ
+# <span style="color: #FF0000; font-weight: bold">FOR GM EYES ONLY - DO NOT READ </span>
 # CONTAINS MASSIVE SPOILERS
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```spoilor-block
-Før Technomancerne fra Xamirs by knækkede koden til at tæmme/bygge vilddyr lavede de utallige eksperimenter på dem. De forstod ikke teknologien så godt, som man gør i dag, så de kunne for eksempel ikke selv programmere eller få vilddyrene til at opføre sig som de gerne ville have. De forstod dog biologi og prøvede derfor, gennem forskellige eksperimenter, at fusionere organiske celler/væsener med vilddyrene i håb på at det organiske materiale kunne skabe et symbiotisk forhold med de mekaniske dele og fungere som et interface mellem væsenet og vilddyret. I mange år forsøgte de sig frem med forskellige kombinationer af væsener (daggerheart ancestries) og typer af vilddyr, såvel som procent-fordelingen mellem organisk materiale og mekaniske vilddyrs dele. Eksperimenterne var med varierende success, det lykkedes dem på ny og næ at skabe en successful symbiotisk kombination, men lige meget de forskellige parametre var det resulterende væsen altid for aggresivt, voldigt, skrøbeligt, ustabilt eller generelt bare ikke modtagelig overfor ordre. En enkelt technomancer researcher var gået lidt på afveje. Han forsøgte sig med at få fungril sporer til symbiotisk at acceptere en vilddyrs-core og drage sin energi derfra. Det syntes de andre researchere var noget pjat, de mente at, grundet kombinationernes aggresive tendenser, var der var langt mere potientiale i dem som våben. Xamirs by var tiltrak ekstra mange vilddyr og var ofte udsat for angreb - de var dog altid forberedt og havde gennem årene udviklet effektive metoder til at håndtere dem. En dag gik det dog galt, vilddyrene angreb i en alt for stor mængde og de var ikke i stand til at justere deres forsvar tilsvarende. Vilddyrene brød gennem muren og hele byen gik i kaos. Strømmen i byen gik og de indelukkede eksperimenter var i stand til at undslippe deres bure og stikke af ud i ørkenen, og totalt ødelægge alt research i processen. Den unikke researcher havde og lige for nyligt knækket koden og havde skabt en succesful kombination. Han var dog bange for hvad der ville ske med hans eksperiment, hvis de andre fandt ud af det - så han greb chancen og stak i kaosset af med sin research. Han fandt en rolig landby i ørkenen, som han slog sig ned I, hvor han fostrede sit fungril vilddyr. 
+<details>
+<summary style="color: #FF0000; font-weight: bold">NO EYES BEYOND THIS POINT</summary>
+<p>
+Før Technomancerne fra Xamirs by knækkede koden til at tæmme/bygge vilddyr lavede de utallige eksperimenter på dem. De forstod ikke teknologien så godt, som man gør i dag, så de kunne for eksempel ikke selv programmere eller få vilddyrene til at opføre sig som de gerne ville have. De forstod dog biologi og prøvede derfor, gennem forskellige eksperimenter, at fusionere organiske celler/væsener med vilddyrene i håb på at det organiske materiale kunne skabe et symbiotisk forhold med de mekaniske dele og fungere som et interface mellem væsenet og vilddyret. I mange år forsøgte de sig frem med forskellige kombinationer af væsener (daggerheart ancestries) og typer af vilddyr, såvel som procent-fordelingen mellem organisk materiale og mekaniske vilddyrs dele. Eksperimenterne var med varierende success, det lykkedes dem på ny og næ at skabe en successful symbiotisk kombination, men lige meget de forskellige parametre var det resulterende væsen altid for aggresivt, voldigt, skrøbeligt, ustabilt eller generelt bare ikke modtagelig overfor ordre. En enkelt technomancer researcher var gået lidt på afveje. Han forsøgte sig med at få fungril sporer til symbiotisk at acceptere en vilddyrs-core og drage sin energi derfra. Det syntes de andre researchere var noget pjat, de mente at, grundet kombinationernes aggresive tendenser, var der var langt mere potientiale i dem som våben. Xamirs by var tiltrak ekstra mange vilddyr og var ofte udsat for angreb - de var dog altid forberedt og havde gennem årene udviklet effektive metoder til at håndtere dem. En dag gik det dog galt, vilddyrene angreb i en alt for stor mængde og de var ikke i stand til at justere deres forsvar tilsvarende. Vilddyrene brød gennem muren og hele byen gik i kaos. Strømmen i byen gik og de indelukkede eksperimenter var i stand til at undslippe deres bure og stikke af ud i ørkenen, og totalt ødelægge alt research i processen. Den unikke researcher havde og lige for nyligt knækket koden og havde skabt en succesful kombination. Han var dog bange for hvad der ville ske med hans eksperiment, hvis de andre fandt ud af det - så han greb chancen og stak i kaosset af med sin research. Han fandt en rolig landby i ørkenen, som han slog sig ned I, hvor han fostrede sit fungril vilddyr.
 
 På grund af de andre undslupne eksperiments aggressivitet og forhøjet intellekt (som resultat af deres organiske dele), var de mere effektive i deres jagt. De hærgede landsbyer mere større succesrate og blev hurtigt frygtet over hele verden. Dusøren på dem afspejlede også folks frygt - jægere kunne tjene kassen på at levere dem, både døde eller levende, til (enten hovedbyen eller Xamirs by) for undersøgelse.
 
@@ -145,4 +85,5 @@ I fare får han:
 - sporer der cirkulerer som små nanodroner
 
 Dette giver dig masser af rolleplay-muligheder.
-```
+</p>
+</details>
