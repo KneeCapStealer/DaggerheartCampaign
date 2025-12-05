@@ -6,7 +6,7 @@ Deres primære lokation hvor alle ravnene kommer fra er fra [[Xamir]]'s hjemby, 
 
 ## AI Slop
 Bare ignorer den usb-stick den har xD
-Forstil jer det er noget fremtids lignene
+Forstil jer det er noget fremtids lignende
 ![[RavnAISlop.png]]
 
 Jeg forsøgte selv at tegne dem, men det kom bare til at ligne den der gås fra Untitled Goose Game lmao
