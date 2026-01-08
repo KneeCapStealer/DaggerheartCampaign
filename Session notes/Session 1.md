@@ -8,7 +8,7 @@ De slås imod en [[Strider]], og fik den nakket, men da de åbnede den op for at
 
 Objektet gav dem en mystisk besked, og kunne også bruges til at interagere med skulpturen.
 
-Skulpturen viste en prik, forbundet til en anden prik via en streg, og tegnede en pil på objektet de fandt, pilen pegede mod øst.
+Skulpturen viste en prik, forbundet til en anden prik via en streg, og tegnede en pil på objektet de fandt, pilen pegede mod øst. [[Oberon L (Atles Karakter)]] kunne genkende skærmen som blev brugt på skulpturen, han havde set den dengang han arbejdede i [[Fort Strea]].
 
 De valgte at gå tilbage til byen hvor de fik penge for at udrydde Strideren, og de solgte nogle dele fra den og fik 1 Penge pose hver.
 
