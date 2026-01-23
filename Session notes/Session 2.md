@@ -1,0 +1,16 @@
+- Stolen apparat
+- Går ind i underjordisk by
+- Finder 1 af banditterne
+	- Han får tæsk, men unslipper
+- Party sætter fælde op, og fanger en bandid
+- Banditten leder dem til hideout
+- De infiltrerer hideout og finder en liste af solgte items
+- Efter de unslipper banditterne, møder de en vagt, ved navnet "Vander", der vil hjælpe hvis de acceptere hans quest.
+- Han forslår at de stjæler apparat i auktions-huset
+	- Lave en distraktion og stjæle forand alle
+- Short rest!
+- Oberon L og Ares distrahere hele aktiehuset ved at slås omkring apparatet
+- Calyx Sporell bruger muligheden til at stjæle apparatet, forand alle uden nogen ser det. Mission impossible style!!
+- De forlader grottebyen og slår sig ned udenfor i ørkenen, væk fra tumulten.
+- Vander forklare hvad han har brug for hjælp til fra the party.
+- Han vil have hjælp til at befire hans bror fra fangeskab hos en gruppe af "Silas Mars'" (Tech Fyrstens) underlangerer.
