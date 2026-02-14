@@ -13,4 +13,4 @@
 - Calyx Sporell bruger muligheden til at stjæle apparatet, forand alle uden nogen ser det. Mission impossible style!!
 - De forlader grottebyen og slår sig ned udenfor i ørkenen, væk fra tumulten.
 - Vander forklare hvad han har brug for hjælp til fra the party.
-- Han vil have hjælp til at befire hans bror fra fangeskab hos en gruppe af "Silas Mars'" (Tech Fyrstens) underlangerer.
+- Han vil have hjælp til at befrie hans bror fra fangeskab hos en gruppe af "Silas Mars'" (Tech Fyrstens) underlangerer.
