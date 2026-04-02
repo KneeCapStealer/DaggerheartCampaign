@@ -1,5 +1,9 @@
 {
   "promptDelete": false,
   "vimMode": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "spellcheckDictionary": [
+    "èn"
+  ]
 }
