@@ -4,8 +4,9 @@
 | **Communities**  | Wanderborne eller Wildborne |
 | **Ancestry**     | Fungril                     |
 | **Domain cards** | TBD                         |
-| **Armor**        | TBD                         |
-| **Prim Weapon**  | TBD                         |
+| **Armor**        | Leather Armor               |
+| **Prim Weapon**  | Hand Runes                  |
+| **Sec Weapon**   | Tower Shield                |
 
 ## Backstory
 Calyx Sporell voksede op i en lille, ørken-landsby langt fra storbyernes kolde metal. Som Fungril voksede han langsommere end andre børn i landsbyen, men det gjorde ham ikke mindre flittig. Han blev opdraget af en aldrende technomancer, Master Orun, der havde slået sig ned i byen efter en katastrofe, han aldrig talte meget om.
